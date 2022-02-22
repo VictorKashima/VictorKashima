@@ -1,8 +1,9 @@
 <!-- QUE DESGRAÇA -->
+<!-- ZeroTwo https://i.pinimg.com/originals/05/0a/42/050a427aa12e5f2b3fa7208abe0bb42c.gif -->
 <h1 align="center">\\ ~ ~ 🖤 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 🖤 ~ ~ //</h1>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/10/60/a5/1060a5e1f2114c618ab47017b4ce0d73.gif">
+<img src="https://31.media.tumblr.com/6476313e34e657ab14b85e57fa4afb7e/tumblr_my4s3y1Lc11sf8qu7o1_500.gif">
 </div>
 <br>
 <pre>
