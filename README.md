@@ -16,7 +16,7 @@
 └───────────────────────────────▰▰▰
 ┌──┤ 𝐏𝐑𝐎𝐉𝐄𝐓𝐂𝐒 ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/VictorKashima/Calc2grau-py">Calculadora Bhaskara</a>
+├─◈ <a href="https://github.com/VictorKashima/calc-bhaskara">Calculadora Bhaskara</a>
 │
 └───────────────────────────────▰▰▰
      <img height="30" width="100" src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white">
