@@ -81,5 +81,14 @@
   <img height="30" width="100" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white">
-
+     </p>
   
+ <h4>𝐆𝐀𝐌𝐈𝐍𝐆</h4>
+  <p>
+  <img height="30" width="100" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+  <img height="30" width="100" src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white">
+  <a href="https://steamcommunity.com/id/_yuichi_"> <img height="30" width="100" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+  <img height="30" width="100" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
+  <img height="30" width="100" src="https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white">
+     </p>
+     
