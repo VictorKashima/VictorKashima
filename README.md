@@ -3,8 +3,11 @@
 <h1 align="center">\\ ~ ~ 🖤 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 🖤 ~ ~ //</h1>
 
 <div align="center">
-<img src="https://31.media.tumblr.com/6476313e34e657ab14b85e57fa4afb7e/tumblr_my4s3y1Lc11sf8qu7o1_500.gif">
+<img src="https://media.giphy.com/media/sWg3RXtMKqcdXD4stP/giphy.gif">
 </div>
+<div align="center">
+     <img src="https://31.media.tumblr.com/6476313e34e657ab14b85e57fa4afb7e/tumblr_my4s3y1Lc11sf8qu7o1_500.gif">
+     </div>
 <br>
 <pre>
 ┌──┤ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 ├─────────▰▰▰
