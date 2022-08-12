@@ -25,11 +25,11 @@
      <img height="30" width="100" src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white">
 ┌──┤ 𝐒𝐏𝐄𝐂𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 ├───────▰▰▰
 │
-├─◈ 𝐂𝐏𝐔: I3-813OU
-├─◈ 𝐆𝐏𝐔: UHD 620
-├─◈ 𝐑𝐀𝐌: 2X4GB 1600MHZ DDR3L
-├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 1TB HD
-├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 128GB SSD NVME
+├─◈ 𝐂𝐏𝐔: Ryzen 5 5500U
+├─◈ 𝐆𝐏𝐔: Vega 7
+├─◈ 𝐑𝐀𝐌: 2X4GB 3200MHZ DDR4
+├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 256GB SSD NVME
+├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: ...
 │
 └───────────────────────────────▰▰▰
 </pre>
