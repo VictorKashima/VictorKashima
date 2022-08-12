@@ -22,7 +22,7 @@
 ├─◈ <a href="https://github.com/VictorKashima/IR_CAR_ARUINO"><img src = "https://img.shields.io/badge/TPLINK-GT-blue" heigth="16" width="60"></a>
 │
 └───────────────────────────────▰▰▰
-     <img height="30" width="100" src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white">
+
 ┌──┤ 𝐒𝐏𝐄𝐂𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 ├───────▰▰▰
 │
 ├─◈ 𝐂𝐏𝐔: Ryzen 5 5500U
