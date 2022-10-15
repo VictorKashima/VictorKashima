@@ -3,8 +3,8 @@
 <h1 align="center">\\ ~ ~ 🖤 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 🖤 ~ ~ //</h1>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorKashima&show_icons=true&theme=radical&count_private=true" alt="Victor Kashima Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Victor Kashima Languages" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorKashima&show_icons=true&theme=radical&count_private=true" alt="Victor Kashima Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorKashima&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
 ├─◈ 𝐆𝐏𝐔: Vega 7
 ├─◈ 𝐑𝐀𝐌: 2X4GB 3200MHZ DDR4
 ├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 256GB SSD NVME
-├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: ...
+├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 1TB SSD
 │
 └───────────────────────────────▰▰▰
 </pre>
