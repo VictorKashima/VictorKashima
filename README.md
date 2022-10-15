@@ -3,8 +3,8 @@
 <h1 align="center">\\ ~ ~ 🖤 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 🖤 ~ ~ //</h1>
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorKashima&show_icons=true&theme=radical&count_private=true" alt="Victor Kashima Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorKashima&layout=compact&theme=radical"/>
+  <img width="40%" height="160px" src="https://github-readme-stats.vercel.app/api?username=VictorKashima&show_icons=true&theme=radical&count_private=true" alt="Victor Kashima Stats" /> 
+  <img width="40%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorKashima&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
