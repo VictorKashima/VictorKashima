@@ -2,6 +2,8 @@
 <!-- ZeroTwo https://i.pinimg.com/originals/05/0a/42/050a427aa12e5f2b3fa7208abe0bb42c.gif -->
 <h1 align="center">\\ ~ ~ 🖤 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 🖤 ~ ~ //</h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+
 <div align="center">
 <img src="https://media.giphy.com/media/sWg3RXtMKqcdXD4stP/giphy.gif">
 </div>
