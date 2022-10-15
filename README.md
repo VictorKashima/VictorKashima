@@ -2,14 +2,16 @@
 <!-- ZeroTwo https://i.pinimg.com/originals/05/0a/42/050a427aa12e5f2b3fa7208abe0bb42c.gif -->
 <h1 align="center">\\ ~ ~ 🖤 𝑩𝒆𝒎 𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 🖤 ~ ~ //</h1>
 
-<div align="center">  
-  <img width="40%" height="160px" src="https://github-readme-stats.vercel.app/api?username=VictorKashima&show_icons=true&theme=radical&count_private=true" alt="Victor Kashima Stats" /> 
-  <img width="40%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorKashima&layout=compact&theme=radical"/>
-</div>
-
 <div align="center">
 <img src="https://media.giphy.com/media/sWg3RXtMKqcdXD4stP/giphy.gif">
 </div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorKashima&show_icons=true&theme=radical&count_private=true" alt="Victor Kashima Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorKashima&layout=compact&theme=radical"/>
+</div>
+
+
 
 <br>
 <pre>
@@ -27,9 +29,10 @@
 ├─◈ <a href="https://github.com/VictorKashima/IR_CAR_ARUINO"><img src = "https://img.shields.io/badge/TPLINK-GT-blue" heigth="16" width="60"></a>
 │
 └───────────────────────────────▰▰▰
-
+      <img height="30" width="100" src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
 ┌──┤ 𝐒𝐏𝐄𝐂𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍 ├───────▰▰▰
 │
+├─◈ ↘𝙈𝙔 𝘽𝘼𝘽𝙔↙
 ├─◈ 𝐂𝐏𝐔: Ryzen 5 5500U
 ├─◈ 𝐆𝐏𝐔: Vega 7
 ├─◈ 𝐑𝐀𝐌: 2X4GB 3200MHZ DDR4
@@ -43,6 +46,7 @@
 <!-- mais icones https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <h4>𝐒𝐎𝐂𝐈𝐀𝐋 𝐍𝐄𝐓𝐖𝐎𝐑𝐊</h4>
   <p>
+  <a href="https://www.instagram.com/victorkashimasz/"> <img height="30" width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/victorkashimasz/"> <img height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCTvLPD3WgVTvxTKXlc3mC6w"> <img height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://twitter.com/KashimaVictor"> <img height="30" width"100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
@@ -63,10 +67,15 @@
   <img height="30" width="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </p>
   
+ <h4>𝑻𝑬𝑪𝑯𝑵𝑶𝑳𝑶𝑮𝑰𝑬𝑺</h4>
+ <img height="30" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  
 <h4>𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐒𝐘𝐒𝐓𝐄𝐌</h4>
   <p>
   <img height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img height="30" width="100" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img height="30" width="100" src="https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white">
   </p>
   
  <h4>𝐆𝐀𝐌𝐈𝐍𝐆</h4>
