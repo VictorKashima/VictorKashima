@@ -69,8 +69,10 @@
   </p>
   
  <h4>𝑻𝑬𝑪𝑯𝑵𝑶𝑳𝑶𝑮𝑰𝑬𝑺</h4>
+ <p>
  <img height="30" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
  <img height="30" width="100" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+  <p>
   
 <h4>𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐒𝐘𝐒𝐓𝐄𝐌</h4>
   <p>
