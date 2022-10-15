@@ -64,11 +64,13 @@
   <p>
   <img height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img height="30" width="100" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </p>
   
  <h4>𝑻𝑬𝑪𝑯𝑵𝑶𝑳𝑶𝑮𝑰𝑬𝑺</h4>
  <img height="30" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+ <img height="30" width="100" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
   
 <h4>𝐎𝐏𝐄𝐑𝐀𝐓𝐈𝐎𝐍𝐀𝐋 𝐒𝐘𝐒𝐓𝐄𝐌</h4>
   <p>
