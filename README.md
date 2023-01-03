@@ -34,7 +34,7 @@
 │
 ├─◈ ↘𝙈𝙔 𝘽𝘼𝘽𝙔↙
 ├─◈ 𝐂𝐏𝐔: Ryzen 5 5500U
-├─◈ 𝐆𝐏𝐔: Vega 7
+├─◈ 𝐆𝐏𝐔: AMD Radeon™ Graphics
 ├─◈ 𝐑𝐀𝐌: 1x4GB & 1x8GB 3200MHZ DDR4
 ├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 256GB SSD NVME
 ├─◈ 𝐒𝐓𝐎𝐑𝐀𝐆𝐄: 1TB SSD
