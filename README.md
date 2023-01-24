@@ -47,9 +47,7 @@
 <h4>𝐒𝐎𝐂𝐈𝐀𝐋 𝐍𝐄𝐓𝐖𝐎𝐑𝐊</h4>
   <p>
   <a href="https://www.linkedin.com/in/victorkashima/"> <img height="30" width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/victorkashimasz/"> <img height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCTvLPD3WgVTvxTKXlc3mC6w"> <img height="30" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://twitter.com/KashimaVictor"> <img height="30" width"100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a>
   <a href="https://t.me/VictorKashima"> <img height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discord.gg/K4HG8Ny"> <img height="30" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   </p>
