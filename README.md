@@ -58,7 +58,7 @@
   <a href="https://github.com/VictorKashima"> <img height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
   
-<h4>𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒</h4>
+<h4>𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆</h4>
   <p>
   <img height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -79,12 +79,6 @@
   <img height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img height="30" width="100" src="https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white">
   </p>
-  
- <h4>𝐆𝐀𝐌𝐈𝐍𝐆</h4>
-  <p>
-  <img height="30" width="100" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
-  <a href="https://steamcommunity.com/id/_yuichi_"> <img height="30" width="100" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-     </p>
      
 <h1 align="center">\\ ~ ~ 👋 𝑩𝒚𝒆 𝑩𝒚𝒆 👋 ~ ~ //</h1>
 <div align="center">
