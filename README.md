@@ -11,8 +11,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorKashima&layout=compact&theme=radical"/>
 </div>
 
-
-
 <br>
 <pre>
 ┌──┤ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 ├─────────▰▰▰
@@ -20,7 +18,7 @@
 ├─▣ 𝑽𝒊𝒄𝒕𝒐𝒓 𝑲𝒂𝒔𝒉𝒊𝒎𝒂
 ├─▣ 𝟏8𝐲
 ├─▣ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝒆𝒍𝒆𝒕𝒓𝒐𝒆𝒍𝒆𝒕𝒓𝒐̂𝒏𝒊𝒄𝒂
-├─▣ 2°𝑻𝒆𝒓𝒎𝒐 𝑩𝒊𝒈 𝑫𝒂𝒕𝒂
+├─▣ 3°𝑻𝒆𝒓𝒎𝒐 𝑩𝒊𝒈 𝑫𝒂𝒕𝒂
 │
 └───────────────────────────────▰▰▰
 ┌──┤ 𝐏𝐑𝐎𝐉𝐄𝐓𝐂𝐒 ├───────▰▰▰
