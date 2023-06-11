@@ -24,6 +24,7 @@
 ┌──┤ 𝐏𝐑𝐎𝐉𝐄𝐓𝐂𝐒 ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/VictorKashima/calc-bhaskara"><img src = "https://img.shields.io/badge/%20Calculadora-Bhaskara-lightgrey" height="16" width="100"></a>
+![victorkashima-badge-tplinkgt](https://github.com/VictorKashima/VictorKashima/assets/100085891/57cc4ffa-69fd-4129-861a-992e3b68a8a7)
 ├─◈ <a href="https://github.com/VictorKashima/IR_CAR_ARUINO"><img src = "https://img.shields.io/badge/TPLINK-GT-blue" heigth="16" width="60"></a>
 │
 └───────────────────────────────▰▰▰
