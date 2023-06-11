@@ -22,8 +22,8 @@
 └───────────────────────────────▰▰▰
 ┌──┤ 𝐏𝐑𝐎𝐉𝐄𝐓𝐂𝐒 ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/VictorKashima/IR_CAR_ARUINO"><img src = "badge/victorkashima-badge-tplinkgt.svg" width="70"></a>
-├─◈ <a href="https://github.com/VictorKashima/agro-crawler-beta"><img src = "badge/victorkashima-badge-agro-crawler.svg" width="110"></a>
+├─◈ <a href="https://github.com/VictorKashima/IR_CAR_ARUINO"><img height="20" src= "badge/victorkashima-badge-tplinkgt.svg"></a>
+├─◈ <a href="https://github.com/VictorKashima/agro-crawler-beta"><img height="20" src= "badge/victorkashima-badge-agro-crawler.svg"></a>
 │
 └───────────────────────────────▰▰▰
 </pre>
