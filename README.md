@@ -17,13 +17,12 @@
 ├─▣ 𝑽𝒊𝒄𝒕𝒐𝒓 𝑲𝒂𝒔𝒉𝒊𝒎𝒂
 ├─▣ 𝟏𝟗𝐲
 ├─▣ 𝑻𝒆́𝒄𝒏𝒊𝒄𝒐 𝒆𝒎 𝒆𝒍𝒆𝒕𝒓𝒐𝒆𝒍𝒆𝒕𝒓𝒐̂𝒏𝒊𝒄𝒂
-├─▣ 3°𝑻𝒆𝒓𝒎𝒐 𝑩𝒊𝒈 𝑫𝒂𝒕𝒂 𝒏𝒐 𝑨𝒈𝒓𝒐𝒏𝒆𝒈𝒐́𝒄𝒊𝒐
+├─▣ 4°𝑻𝒆𝒓𝒎𝒐 𝑩𝒊𝒈 𝑫𝒂𝒕𝒂 𝒏𝒐 𝑨𝒈𝒓𝒐𝒏𝒆𝒈𝒐́𝒄𝒊𝒐
 │
 └───────────────────────────────▰▰▰
 ┌──┤ 𝐏𝐑𝐎𝐉𝐄𝐓𝐂𝐒 ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/VictorKashima/IR_CAR_ARUINO"><img height="20" src= "badge/victorkashima-badge-tplinkgt.svg"></a>
-├─◈ <a href="https://github.com/VictorKashima/agro-crawler-beta"><img height="20" src= "badge/victorkashima-badge-agro-crawler.svg"></a>
+├─◈ <a href="https://victorkashima.github.io/portfolio/">Portfólio</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
